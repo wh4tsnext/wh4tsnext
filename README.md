@@ -1,32 +1,37 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=435&lines=Welcome+to+the+void+%F0%9F%8C%92;I'm+wh4tsnext" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=B392F0&center=true&vCenter=true&width=435&lines=Welcome+to+the+abyss+%F0%9F%8C%92;I'm+wh4tsnext" alt="Typing SVG" />
 </div>
 
-## ⚡ About Me
+---
 
-- 🌙 Wandering through digital realms
-- 🎭 Mystery loves company
-- ⚔️ Building something intriguing
-- 🕊️ "Not all those who wander are lost"
+## ✨ About Me
+
+- 🌙 Drifting through layers of the unknown
+- 🎩 An enigma wrapped in code
+- ⚔️ Crafting the unseen
+- 🧙‍♂️ "Silence speaks louder than words"
+- 🌌 Inspired by the elegance of algorithms and the infinity of possibilities
 
 <details>
 <summary>🌌 Current State</summary>
 <br>
 
-🌓 Phase: Exploring the unknown
+🌑 Phase: On the edge of discovery
 
-🎯 Focus: Mastering the art of code
+🎯 Focus: Building elegant complexity
 
-📚 Learning: Advanced algorithms
+📚 Learning: Systems that think
 
-🌟 Status: Coding in progress...
+✨ Status: Forever evolving...
 
 </details>
+
+---
 
 ## 💻 Tech Stack
 
 <div align="center">
-  
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -39,21 +44,25 @@
 
 ⚡ Quick facts:
 
-🔮 Favorite paradigm: Functional Programming
+💎 Preferred paradigm: Functional Programming
 
-🎮 Code Editor: VSCode
+🎮 Tool of choice: VSCode
 
-🌙 Best coding time: Late night
+🌕 Prime hours: Midnight to dawn
 
 </div>
+
+---
 
 ## 🌟 Let's Connect
 
 <div align="center">
-  
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/whats_next_42)
 
 </div>
+
+---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
@@ -62,7 +71,10 @@
 </div>
 
 <div align="center">
-  
+
+> "In stillness, the universe unfolds"
+>                                        — Anonymous
+
 > "The quieter you become, the more you can hear" 
 >                                        — Ram Dass
 
@@ -70,11 +82,15 @@
 <summary>🎯 Current Projects</summary>
 <br>
 
-📦 Project Nova: [classified]
+📦 Project Nova: [hidden in shadows]
 
-🔮 Void Walker: In development :)
+💎 Echo Nexus: Work in progress
 
-⚡ Neural Link: [encrypted]
+⚡ Lattice Mind: [restricted access]
+
+🔍 Polaris Engine: Exploring procedural generation
+
+🌐 Ouroboros AI: Conceptualizing recursive learning systems
 
 </details>
 
